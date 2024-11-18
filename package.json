@@ -1,0 +1,24 @@
+{
+  "name": "bubble_kodidb_analysis",
+  "version": "1.0.4",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBubble717/bubble_KodiDB_Analysis.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBubble717/bubble_KodiDB_Analysis/issues"
+  },
+  "homepage": "https://github.com/TheBubble717/bubble_KodiDB_Analysis#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "sqlite3": "^5.1.2"
+  }
+}
